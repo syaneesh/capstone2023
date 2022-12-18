@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414617905704",
+    "project_id": "capstonemad-f219a",
+    "storage_bucket": "capstonemad-f219a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414617905704:android:fa081b2ca26884bca4e31d",
+        "android_client_info": {
+          "package_name": "com.example.mad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414617905704-lcjm9npt7tbruj4c7gv53vknu6gl91vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-9ff27zEsiqKiU-nsAddRQq_xscICLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414617905704-lcjm9npt7tbruj4c7gv53vknu6gl91vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
